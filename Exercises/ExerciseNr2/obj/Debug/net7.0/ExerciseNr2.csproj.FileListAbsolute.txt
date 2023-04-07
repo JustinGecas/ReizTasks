@@ -1,0 +1,15 @@
+C:\Users\justa\OneDrive\Desktop\REIZ Tech\Exercise Nr1\ExerciseNr2\obj\Debug\net7.0\ExerciseNr2.csproj.AssemblyReference.cache
+C:\Users\justa\OneDrive\Desktop\REIZ Tech\Exercise Nr1\ExerciseNr2\obj\Debug\net7.0\ExerciseNr2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justa\OneDrive\Desktop\REIZ Tech\Exercise Nr1\ExerciseNr2\obj\Debug\net7.0\ExerciseNr2.AssemblyInfoInputs.cache
+C:\Users\justa\OneDrive\Desktop\REIZ Tech\Exercise Nr1\ExerciseNr2\obj\Debug\net7.0\ExerciseNr2.AssemblyInfo.cs
+C:\Users\justa\OneDrive\Desktop\REIZ Tech\Exercise Nr1\ExerciseNr2\obj\Debug\net7.0\ExerciseNr2.csproj.CoreCompileInputs.cache
+C:\Users\justa\OneDrive\Desktop\REIZ Tech\Exercise Nr1\ExerciseNr2\bin\Debug\net7.0\ExerciseNr2.exe
+C:\Users\justa\OneDrive\Desktop\REIZ Tech\Exercise Nr1\ExerciseNr2\bin\Debug\net7.0\ExerciseNr2.deps.json
+C:\Users\justa\OneDrive\Desktop\REIZ Tech\Exercise Nr1\ExerciseNr2\bin\Debug\net7.0\ExerciseNr2.runtimeconfig.json
+C:\Users\justa\OneDrive\Desktop\REIZ Tech\Exercise Nr1\ExerciseNr2\bin\Debug\net7.0\ExerciseNr2.dll
+C:\Users\justa\OneDrive\Desktop\REIZ Tech\Exercise Nr1\ExerciseNr2\bin\Debug\net7.0\ExerciseNr2.pdb
+C:\Users\justa\OneDrive\Desktop\REIZ Tech\Exercise Nr1\ExerciseNr2\obj\Debug\net7.0\ExerciseNr2.dll
+C:\Users\justa\OneDrive\Desktop\REIZ Tech\Exercise Nr1\ExerciseNr2\obj\Debug\net7.0\refint\ExerciseNr2.dll
+C:\Users\justa\OneDrive\Desktop\REIZ Tech\Exercise Nr1\ExerciseNr2\obj\Debug\net7.0\ExerciseNr2.pdb
+C:\Users\justa\OneDrive\Desktop\REIZ Tech\Exercise Nr1\ExerciseNr2\obj\Debug\net7.0\ExerciseNr2.genruntimeconfig.cache
+C:\Users\justa\OneDrive\Desktop\REIZ Tech\Exercise Nr1\ExerciseNr2\obj\Debug\net7.0\ref\ExerciseNr2.dll
